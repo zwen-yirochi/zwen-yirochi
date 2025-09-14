@@ -1,4 +1,4 @@
-## Hi there 👋
+## Wonjae.Ji - FE Developer
 
 ##### Stacks
 
